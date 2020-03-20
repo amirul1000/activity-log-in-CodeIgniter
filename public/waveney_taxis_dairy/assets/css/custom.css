@@ -1,0 +1,16 @@
+/* CSS Document */
+.float_left {
+	float: left;
+}
+
+.float_right {
+	float: right;
+}
+
+.padding_10 {
+	padding: 10px;
+}
+
+.padding_5 {
+	padding: 5px;
+}
